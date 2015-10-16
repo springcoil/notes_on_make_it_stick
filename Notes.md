@@ -28,7 +28,7 @@ those who simply read the material
 
 * Similarly, such testing enables an instructor to spot gaps and misconceptions and adopt instruction to correct them. 
 
-* ##Spacing## is very import - like randomly shuffled flash cards (split up your study and review)
+* **Spacing** is very import - like randomly shuffled flash cards (split up your study and review)
 
 * One of the biggest challenges we have with learning is the 'illusion of familiarity' - this misleads you about your learning - you have to be self-disciplined and force yourself to practice skills.
 
